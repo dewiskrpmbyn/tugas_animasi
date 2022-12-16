@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+    <title>animasi</title>
+    <style>
+        body {
+        background-image: url('images/background/bgwhite.jpg') ;
+        -webkit-background-size: cover;
+        -moz-background-size: cover ;
+        background-size: cover;
+        -moz-background-size: cover ;
+        }
+        header {
+            margin-top: 56px;
+        }
+    </style>
+</head>
+<body>
+
+<!-- menu web -->
+<nav id="navbar top" class="navbar navbar-expand-sm navbar-dark bg-success fixed-top">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">pesat</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarcollapse">
+            <aria-controls="navbarcollapse" aria-expanded="false" aria;label="toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav me-auto mb-2 mb-sm-0">
+                <li class="nav-item">
+                    <a class="nav-link active"href="#">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link"href="#">Studentday</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link"href="#">Kopasus IT</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<!-- header web -->
+<header class="d-flex flex-wrap justify-content-center py-5 bg-success">
+    <div data-aos="zoom-out">
+        <a href="#" class="d-flex align-items-center mb-3 mb-md-0 text-dark text-decoration-none">
+            <img src="images/logo/pesat.png" alt="ini logo pesat" width="35" height="35">
+            <span class="fs-3 fw-bold text-light">SMA PLUS PGRI CIBINONG</span>
+        </a>
+    </div>
+</header>
+
+        <!-- konten --> 
+        <div class="container mt-4">
+            <div data-aos="zoom-in">
+                <div class="row">
+                    <div class="col-sm">
+                        <h2 class="text-success">Column A</h2>
+                        <p>Prepare for the Recruitment drive of product
+                        based companies like Microsoft, Amazon, Adobe
+                        etc with a free online placement preparation
+                        course. The course focuses on various MCQ's
+                        & Coding question likely to be asked in the
+                        interviews & make your upcoming placement
+                        season efficient and successful.</p>
+                    </div>
+                    <div class="col-sm">
+                        <h2 class="text-success">Column B</h2>
+                        <p>Prepare for the Recruitment drive of product
+                        based companies like Microsoft, Amazon, Adobe
+                        etc with a free online placement preparation
+                        course. The course focuses on various MCQ's
+                        & Coding question likely to be asked in the
+                        interviews & make your upcoming placement
+                        season efficient and successful.</p>
+                    </div>
+                    <div class="col-sm">
+                        <h2 class="text-success">Column C</h2>
+                        <p>Prepare for the Recruitment drive of product
+                        based companies like Microsoft, Amazon, Adobe
+                        etc with a free online placement preparation
+                        course. The course focuses on various MCQ's
+                        & Coding question likely to be asked in the
+                        interviews & make your upcoming placement
+                        season efficient and successful.</p>
+                    </div>
+            </div>
+        </div>
+    
+    <div class="container mt-4">
+        <div data-aos="zoom-in-up">
+            <div class="row">
+                <div class="col-sm">
+                    <h2 class="text-success">Column A</h2>
+                    <p>Prepare for the Recruitment drive of product
+                    based companies like Microsoft, Amazon, Adobe
+                    etc with a free online placement preparation
+                    course. The course focuses on various MCQ's
+                    & Coding question likely to be asked in the
+                    interviews & make your upcoming placement
+                    season efficient and successful.</p>
+                </div>
+                <div class="col-sm">
+                    <h2 class="text-success">Column B</h2>
+                    <p>Prepare for the Recruitment drive of product
+                    based companies like Microsoft, Amazon, Adobe
+                    etc with a free online placement preparation
+                    course. The course focuses on various MCQ's
+                    & Coding question likely to be asked in the
+                    interviews & make your upcoming placement
+                    season efficient and successful.</p>
+                </div>
+                <div class="col-sm">
+                    <h2 class="text-success">Column C</h2>
+                    <p>Prepare for the Recruitment drive of product
+                    based companies like Microsoft, Amazon, Adobe
+                    etc with a free online placement preparation
+                    course. The course focuses on various MCQ's
+                    & Coding question likely to be asked in the
+                    interviews & make your upcoming placement
+                    season efficient and successful.</p>
+                </div>
+        </div>
+    </div>
+
+    <div class="container mt-4">
+        <div data-aos="zoom-in-down">
+            <div class="row">
+                <div class="col-sm">
+                    <h2 class="text-success">Column A</h2>
+                    <p>Prepare for the Recruitment drive of product
+                    based companies like Microsoft, Amazon, Adobe
+                    etc with a free online placement preparation
+                    course. The course focuses on various MCQ's
+                    & Coding question likely to be asked in the
+                    interviews & make your upcoming placement
+                    season efficient and successful.</p>
+                </div>
+                <div class="col-sm">
+                    <h2 class="text-success">Column B</h2>
+                    <p>Prepare for the Recruitment drive of product
+                    based companies like Microsoft, Amazon, Adobe
+                    etc with a free online placement preparation
+                    course. The course focuses on various MCQ's
+                    & Coding question likely to be asked in the
+                    interviews & make your upcoming placement
+                    season efficient and successful.</p>
+                </div>
+                <div class="col-sm">
+                    <h2 class="text-success">Column C</h2>
+                    <p>Prepare for the Recruitment drive of product
+                    based companies like Microsoft, Amazon, Adobe
+                    etc with a free online placement preparation
+                    course. The course focuses on various MCQ's
+                    & Coding question likely to be asked in the
+                    interviews & make your upcoming placement
+                    season efficient and successful.</p>
+                </div>
+        </div>
+    </div>
+
+    <div class="container mt-4">
+        <div data-aos="fade-up-right">
+            <div class="row">
+                <div class="col-sm">
+                    <h2 class="text-success">Column A</h2>
+                    <p>Prepare for the Recruitment drive of product
+                    based companies like Microsoft, Amazon, Adobe
+                    etc with a free online placement preparation
+                    course. The course focuses on various MCQ's
+                    & Coding question likely to be asked in the
+                    interviews & make your upcoming placement
+                    season efficient and successful.</p>
+                </div>
+                <div class="col-sm">
+                    <h2 class="text-success">Column B</h2>
+                    <p>Prepare for the Recruitment drive of product
+                    based companies like Microsoft, Amazon, Adobe
+                    etc with a free online placement preparation
+                    course. The course focuses on various MCQ's
+                    & Coding question likely to be asked in the
+                    interviews & make your upcoming placement
+                    season efficient and successful.</p>
+                </div>
+                <div class="col-sm">
+                    <h2 class="text-success">Column C</h2>
+                    <p>Prepare for the Recruitment drive of product
+                    based companies like Microsoft, Amazon, Adobe
+                    etc with a free online placement preparation
+                    course. The course focuses on various MCQ's
+                    & Coding question likely to be asked in the
+                    interviews & make your upcoming placement
+                    season efficient and successful.</p>
+                </div>
+        </div>
+    </div>
+
+    <div class="container mt-4">
+        <div data-aos="fade-left">
+            <div class="row">
+                <div class="col-sm">
+                <h2 class="text-success">Column A</h2>
+                <p>Prepare for the Recruitment drive of product
+                based companies like Microsoft, Amazon, Adobe
+                etc with a free online placement preparation
+                course. The course focuses on various MCQ's
+                & Coding question likely to be asked in the
+                interviews & make your upcoming placement
+                season efficient and successful.</p>
+            </div>
+            <div class="col-sm">
+                <h2 class="text-success">Column B</h2>
+                <p>Prepare for the Recruitment drive of product
+                based companies like Microsoft, Amazon, Adobe
+                etc with a free online placement preparation
+                course. The course focuses on various MCQ's
+                & Coding question likely to be asked in the
+                interviews & make your upcoming placement
+                season efficient and successful.</p>
+            </div>
+            <div class="col-sm">
+                <h2 class="text-success">Column C</h2>
+                <p>Prepare for the Recruitment drive of product
+                based companies like Microsoft, Amazon, Adobe
+                etc with a free online placement preparation
+                course. The course focuses on various MCQ's
+                & Coding question likely to be asked in the
+                interviews & make your upcoming placement
+                season efficient and successful.</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="container mt-4">
+        <div data-aos="flip-down">
+            <div class="row">
+                <div class="col-sm">
+                    <h2 class="text-success">Column A</h2>
+                    <p>Prepare for the Recruitment drive of product
+                    based companies like Microsoft, Amazon, Adobe
+                    etc with a free online placement preparation
+                    course. The course focuses on various MCQ's
+                    & Coding question likely to be asked in the
+                    interviews & make your upcoming placement
+                    season efficient and successful.</p>
+                </div>
+                <div class="col-sm">
+                    <h2 class="text-success">Column B</h2>
+                    <p>Prepare for the Recruitment drive of product
+                    based companies like Microsoft, Amazon, Adobe
+                    etc with a free online placement preparation
+                    course. The course focuses on various MCQ's
+                    & Coding question likely to be asked in the
+                    interviews & make your upcoming placement
+                    season efficient and successful.</p>
+                </div>
+                <div class="col-sm">
+                    <h2 class="text-success">Column C</h2>
+                    <p>Prepare for the Recruitment drive of product
+                    based companies like Microsoft, Amazon, Adobe
+                    etc with a free online placement preparation
+                    course. The course focuses on various MCQ's
+                    & Coding question likely to be asked in the
+                    interviews & make your upcoming placement
+                    season efficient and successful.</p>
+                </div>
+        </div>
+    </div>
+
+    <div class="container mt-4">
+        <div data-aos="flip-up">
+            <div class="row">
+                <div class="col-sm">
+                    <h2 class="text-success">Column A</h2>
+                    <p>Prepare for the Recruitment drive of product
+                    based companies like Microsoft, Amazon, Adobe
+                    etc with a free online placement preparation
+                    course. The course focuses on various MCQ's
+                    & Coding question likely to be asked in the
+                    interviews & make your upcoming placement
+                    season efficient and successful.</p>
+                </div>
+                <div class="col-sm">
+                    <h2 class="text-success">Column B</h2>
+                    <p>Prepare for the Recruitment drive of product
+                    based companies like Microsoft, Amazon, Adobe
+                    etc with a free online placement preparation
+                    course. The course focuses on various MCQ's
+                    & Coding question likely to be asked in the
+                    interviews & make your upcoming placement
+                    season efficient and successful.</p>
+                </div>
+                <div class="col-sm">
+                    <h2 class="text-success">Column C</h2>
+                    <p>Prepare for the Recruitment drive of product
+                    based companies like Microsoft, Amazon, Adobe
+                    etc with a free online placement preparation
+                    course. The course focuses on various MCQ's
+                    & Coding question likely to be asked in the
+                    interviews & make your upcoming placement
+                    season efficient and successful.</p>
+                </div>
+        </div>
+    </div>
+
+    <div class="container mt-4">
+        <div data-aos="fade-up"
+        data-aos-duration="3000">
+        <div class="row">
+            <div class="col-sm">
+                <h2 class="text-success">Column A</h2>
+                <p>Prepare for the Recruitment drive of product
+                based companies like Microsoft, Amazon, Adobe
+                etc with a free online placement preparation
+                course. The course focuses on various MCQ's
+                & Coding question likely to be asked in the
+                interviews & make your upcoming placement
+                season efficient and successful.</p>
+            </div>
+            <div class="col-sm">
+                <h2 class="text-success">Column B</h2>
+                <p>Prepare for the Recruitment drive of product
+                based companies like Microsoft, Amazon, Adobe
+                etc with a free online placement preparation
+                course. The course focuses on various MCQ's
+                & Coding question likely to be asked in the
+                interviews & make your upcoming placement
+                season efficient and successful.</p>
+            </div>
+            <div class="col-sm">
+                <h2 class="text-success">Column C</h2>
+                <p>Prepare for the Recruitment drive of product
+                based companies like Microsoft, Amazon, Adobe
+                etc with a free online placement preparation
+                course. The course focuses on various MCQ's
+                & Coding question likely to be asked in the
+                interviews & make your upcoming placement
+                season efficient and successful.</p>
+            </div>
+        </div>
+    </div>
+        </div>
+    </div>
+
+    <div class="container mt-4">
+        <div data-aos="fade-down"
+        data-aos-easing="linear"
+        data-aos-duration="1500">
+     <div class="row">
+        <div class="col-sm">
+            <h2 class="text-success">Column A</h2>
+            <p>Prepare for the Recruitment drive of product
+            based companies like Microsoft, Amazon, Adobe
+            etc with a free online placement preparation
+            course. The course focuses on various MCQ's
+            & Coding question likely to be asked in the
+            interviews & make your upcoming placement
+            season efficient and successful.</p>
+        </div>
+        <div class="col-sm">
+            <h2 class="text-success">Column B</h2>
+            <p>Prepare for the Recruitment drive of product
+            based companies like Microsoft, Amazon, Adobe
+            etc with a free online placement preparation
+            course. The course focuses on various MCQ's
+            & Coding question likely to be asked in the
+            interviews & make your upcoming placement
+            season efficient and successful.</p>
+        </div>
+        <div class="col-sm">
+            <h2 class="text-success">Column C</h2>
+            <p>Prepare for the Recruitment drive of product
+            based companies like Microsoft, Amazon, Adobe
+            etc with a free online placement preparation
+            course. The course focuses on various MCQ's
+            & Coding question likely to be asked in the
+            interviews & make your upcoming placement
+            season efficient and successful.</p>
+        </div>
+    </div>
+    </div>
+
+</div>
+
+
+<!-- footer web -->
+<footer class="d-flex flex-wrap justify content-between align-items-center py-3 my-4 px-3 border-top">
+    <div class="col-md-4 d-flex align-items-center">
+        <a href="/" class="mb-3 me-2 mb-md-0 text-muted text-decoration-none Ih-1">
+            <img src="images/logo/pesat.png" alt="ini logo pesat" class="bi" width="30" height="24">
+        </a>
+        <span class="text-muted">&copy; 2021 Web Design</span>
+</div>
+
+    <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
+        <li class="ms-3">
+            <a class="text-muted" href="#">
+                <i class="bi bi-twitter"></i>
+            </a>
+        </li>
+        <li class="ms-3">
+            <a class="text-muted" href="#">
+                <i class="bi bi-instagram"></i>
+            </a>
+        </li>
+        <li class="ms-3">
+            <a class="text-muted" href="#">
+                <i class="bi bi-facebook"></i>
+            </a>
+        </li>
+    </ul>
+<footer>
+<script src="bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script>
+    AOS.init();
+  </script>
+</body>
+</html>
